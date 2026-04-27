@@ -5,5 +5,9 @@
 //문의 : twitter - @_pot_c , mail - lux0329pizza@gmail.com
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/761eb42c-0b49-4811-b417-1f88bacc5180" />
-<img width="1382" height="806" alt="image" src="https://github.com/user-attachments/assets/47acc14a-2d5d-43b1-ad93-32d004f3a438" />
+<img width="1642" height="958" alt="image" src="https://github.com/user-attachments/assets/020ed9ee-9524-4880-89cd-2bb36f50bd9e" />
+<img width="1392" height="784" alt="image" src="https://github.com/user-attachments/assets/8558a384-893f-4136-8f28-5afa1d6e40ad" />
+![Uploading image.png…]()
+
+
 

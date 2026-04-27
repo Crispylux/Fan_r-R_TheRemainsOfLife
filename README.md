@@ -3,3 +3,7 @@
 //원하는 에피소드를 찾아 다운받으세요.
 //통합본은 Ep2에 수록될 예정입니다.
 //문의 : twitter - @_pot_c , mail - lux0329pizza@gmail.com
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/761eb42c-0b49-4811-b417-1f88bacc5180" />
+<img width="1382" height="806" alt="image" src="https://github.com/user-attachments/assets/47acc14a-2d5d-43b1-ad93-32d004f3a438" />
+

@@ -1,6 +1,10 @@
 용량상의 문제로 googledrive에 담긴 게임 배포 파일이 내려갈 수 있습니다.
 <br><br>
-원하는 에피소드를 찾아 다운받으세요.<br>
+
+브랜치를 열어, 원하는 에피소드를 찾아 다운받으세요.<br>
+<img width="385" height="406" alt="image" src="https://github.com/user-attachments/assets/49447bcc-7b79-44b0-9e0c-05ca35b8417c" />
+<br><br>
+
 통합본은 Ep2에 수록될 예정입니다.<br>
 문의 : psjungsy@gmail.com<br>
 <br><br>
